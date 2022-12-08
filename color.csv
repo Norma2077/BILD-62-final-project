@@ -1,0 +1,58 @@
+Color,Protein,Excitation Maximum(nm),Emission Maximum (nm)
+blue,EBFP,383,445
+blue,EBFP2,383,448
+blue,Azurite,384,450
+blue,mTagBFP,399,456
+cyan,ECFP,439,476
+cyan,mECFP,433,475
+cyan,Cerulean,433,475
+cyan,CyPet,435,477
+cyan,AmCyan1,458,489
+cyan,Midori-Ishi Cyan,472,495
+cyan,TagCFP,458,480
+cyan,mTFP1 (Teal),462,492
+green,EGFP,484,507
+green,Emerald,487,509
+green,Superfolder GFP,485,510
+green,Azami Green,492,505
+green,mWasabi,493,509
+green,TagGFP,482,505
+green,TurboGFP,482,502
+green,AcGFP,480,505
+green,ZsGreen,493,505
+green,T-Sapphire,399,511
+yellow,EYFP,514,527
+yellow,Topaz,514,527
+yellow,Venus,515,528
+yellow,mCitrine,516,529
+yellow,YPet,517,530
+yellow,TagYFP,508,524
+yellow,PhiYFP,525,537
+yellow,ZsYellow1,529,539
+yellow,mBanana,540,553
+orange,Kusabira Orange,548,559
+orange,Kusabira Orange2,551,565
+orange,mOrange,548,562
+orange,mOrange2,549,565
+orange,dTomato,554,581
+orange,dTomato-Tandem,554,581
+orange,TagRFP,555,584
+orange,TagRFP-T,555,584
+orange,DsRed,558,583
+orange,DsRed2,563,582
+orange,DsRed-Express (T1),555,584
+orange,DsRed-Monomer,556,586
+orange,mTangerine,568,585
+red,mRuby,558,605
+red,mApple,568,592
+red,mStrawberry,574,596
+red,AsRed2,576,592
+red,mRFP1,584,607
+red,JRed,584,610
+red,mCherry,587,610
+red,HcRed1,588,618
+red,mRaspberry,598,625
+red,dKeima-Tandem,440,620
+red,HcRed-Tandem,590,637
+red,mPlum,590,649
+red,AQ143,595,655
