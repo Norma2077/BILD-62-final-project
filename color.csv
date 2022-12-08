@@ -1,0 +1,8 @@
+color,wavelength max(nm),wavelength min(nm)
+red,750,620
+orange,620,590
+yellow,590,570
+green,570,495
+cyan,520,490
+blue,495,450
+violet,450,380
